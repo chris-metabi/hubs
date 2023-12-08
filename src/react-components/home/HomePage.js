@@ -62,7 +62,7 @@ export function HomePage() {
               <span>
                 <FormattedMessage
                   id="header.signed-in-as"
-                  defaultMessage="Signed in as {email}"
+                  defaultMessage="SIGNED in as {email}"
                   values={{ email: maskEmail(email) }}
                 />
               </span>
